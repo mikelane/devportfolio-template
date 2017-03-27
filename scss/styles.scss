@@ -117,7 +117,7 @@ body {
                 margin: 0 0 15px 0;
             }
 
-            p {
+            p, ul, li {
                 color: $text;
                 font-size: 0.9em;
                 margin: 0;
@@ -527,7 +527,7 @@ footer {
         margin: 0 0 15px 0;
     }
 
-    p {
+    p, ul, li {
         color: $text;
         font-size: 0.9em;
         margin: 0;
